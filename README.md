@@ -6,7 +6,6 @@ A simple time-blocking and task-tracking web application built with React.
 - Task creation and time-blocking
 - Pomodoro-style timers
 - Analytics dashboard
-- Dark mode support (because why not?)
 
 ## Tech Stack
 - **Frontend:** React, TypeScript, Tailwind CSS
