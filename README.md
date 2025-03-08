@@ -13,6 +13,11 @@ A simple time-blocking and task-tracking web application built with React.
 - **Database (Planned):** PostgreSQL
 - **Deployment:** TBD
 
+## Design images
+![Time blocking UI](./design_documents/Main_page.png)
+![Timer UI](./design_documents/Timer_Modal.png)
+
+
 ## Installation
 1. Clone the repo:
    ```bash
